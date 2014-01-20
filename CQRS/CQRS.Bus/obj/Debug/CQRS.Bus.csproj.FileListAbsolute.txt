@@ -1,0 +1,9 @@
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\bin\Debug\CQRS.Bus.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\bin\Debug\CQRS.Bus.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\bin\Debug\CQRS.Core.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\bin\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\bin\Debug\CQRS.Core.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\bin\Debug\CQRS.Utils.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\obj\Debug\CQRS.Bus.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\obj\Debug\CQRS.Bus.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Bus\obj\Debug\CQRS.Bus.pdb

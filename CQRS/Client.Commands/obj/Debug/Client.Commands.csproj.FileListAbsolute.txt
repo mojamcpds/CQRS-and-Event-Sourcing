@@ -1,0 +1,9 @@
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\bin\Debug\Client.Commands.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\bin\Debug\Client.Commands.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\bin\Debug\CQRS.Core.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\bin\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\bin\Debug\CQRS.Core.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\bin\Debug\CQRS.Utils.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\obj\Debug\Client.Commands.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\obj\Debug\Client.Commands.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Commands\obj\Debug\Client.Commands.pdb

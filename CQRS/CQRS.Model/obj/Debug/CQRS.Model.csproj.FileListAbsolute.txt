@@ -1,0 +1,5 @@
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Model\bin\Debug\CQRS.Model.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Model\bin\Debug\CQRS.Model.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Model\obj\Debug\CQRS.Model.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Model\obj\Debug\CQRS.Model.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Model\obj\Debug\CQRS.Model.csprojResolveAssemblyReference.cache

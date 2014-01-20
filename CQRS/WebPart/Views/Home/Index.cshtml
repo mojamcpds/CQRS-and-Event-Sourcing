@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Person</h2>
+<table>
+
+@foreach (var item in ViewBag.Model)
+{
+    <tr>
+        <td>@item.LastName</td>
+        <td>@item.FirstName</td>
+        <td>@item.Age</td>
+        <td>@Html.ActionLink("Edit","Edit",new {id=item.Id})</td>
+        <td>@Html.ActionLink("Delete","Delete",new {id=item.Id})</td>
+    </tr>
+}
+</table>
+
+@Html.ActionLink("Add","Add")

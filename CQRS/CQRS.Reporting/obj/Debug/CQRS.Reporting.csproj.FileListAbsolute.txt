@@ -1,0 +1,12 @@
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\CQRS.Reporting.dll.config
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\CQRS.Reporting.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\CQRS.Reporting.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\CQRS.Model.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\EntityFramework.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\EntityFramework.SqlServer.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\CQRS.Model.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\EntityFramework.xml
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\bin\Debug\EntityFramework.SqlServer.xml
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\obj\Debug\CQRS.Reporting.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\obj\Debug\CQRS.Reporting.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Reporting\obj\Debug\CQRS.Reporting.pdb

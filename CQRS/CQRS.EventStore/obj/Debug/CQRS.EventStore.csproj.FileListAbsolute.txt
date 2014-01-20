@@ -1,0 +1,11 @@
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.EventStore.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.EventStore.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.Bus.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.Core.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.Bus.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.Core.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\bin\Debug\CQRS.Utils.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\obj\Debug\CQRS.EventStore.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\obj\Debug\CQRS.EventStore.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.EventStore\obj\Debug\CQRS.EventStore.pdb
