@@ -178,7 +178,6 @@
     </Compile>
     <Compile Include="PersonBootStrapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ServiceLocator.cs" />
     <Compile Include="ViewModel\VMPerson.cs" />
   </ItemGroup>
   <ItemGroup>

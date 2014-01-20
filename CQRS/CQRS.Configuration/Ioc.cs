@@ -54,38 +54,13 @@ namespace CQRS.Configuration
                     this.Bind(typeof(IHandle<>).MakeGenericType(@event)).To(commandHandler);
                 }
             }
-
-            //var handlerList = AssemblyScanner.ScanAssembliesFor(typeof(IHandle<>)).ToList();
-            //var commandList = AssemblyScanner.ScanAssembliesFor<Command>().ToList();
-
-            //this.Bind<IHandle<CreateInventoryItem>>().To<InventoryCommandHandlers>().InRequestScope();
-            //this.Bind<IHandle<DeactivateInventoryItem>>().To<InventoryCommandHandlers>().InRequestScope();
-            //this.Bind<IHandle<RemoveItemsFromInventory>>().To<InventoryCommandHandlers>().InRequestScope();
-            //this.Bind<IHandle<CheckInItemsToInventory>>().To<InventoryCommandHandlers>().InRequestScope();
-            //this.Bind<IHandle<RenameInventoryItem>>().To<InventoryCommandHandlers>().InRequestScope();
-
-            //this.Bind<ISqlInsertBuilder>().To<SqlInsertBuilder>().InRequestScope();
-            //this.Bind<ISqlSelectBuilder>().To<SqlSelectBuilder>().InRequestScope();
-            //this.Bind<ISqlUpdateBuilder>().To<SqlUpdateBuilder>().InRequestScope();
-            //this.Bind<ISqlDeleteBuilder>().To<SqlDeleteBuilder>().InRequestScope();
-            //this.Bind<ISqlCreateBuilder>().To<SqlCreateBuilder>().InRequestScope();
             
             //below first string is constructor parameter name and second string is constructor parameter value
             //this.Bind<IReportingRepository>().To<ReportingRepository>().InRequestScope().WithConstructorArgument(
             //    "connectionString", new SqlConnection());
             this.Bind<IReportingUnitOfWork>().To<ReportingUnitOfWork>();
             this.Bind<IReportingRepository>().To<ReportingRepository>().WithConstructorArgument("IReportingUnitOfWork",new ReportingUnitOfWork());
-           
-
-            //this.Bind<IHandle<InventoryItemCreated>>().To<InventoryItemDetailViewHandler>().InRequestScope();
-            //this.Bind<IHandle<InventoryItemDeactivated>>().To<InventoryItemDetailViewHandler>().InRequestScope();
-            //this.Bind<IHandle<InventoryItemRenamed>>().To<InventoryItemDetailViewHandler>().InRequestScope();
-            //this.Bind<IHandle<ItemsRemovedFromInventory>>().To<InventoryItemDetailViewHandler>().InRequestScope();
-            //this.Bind<IHandle<ItemsCheckedInToInventory>>().To<InventoryItemDetailViewHandler>().InRequestScope();
-
-            //this.Bind<IHandle<InventoryItemCreated>>().To<InventoryItemListViewHandler>().InRequestScope();
-            //this.Bind<IHandle<InventoryItemRenamed>>().To<InventoryItemListViewHandler>().InRequestScope();
-            //this.Bind<IHandle<InventoryItemDeactivated>>().To<InventoryItemListViewHandler>().InRequestScope();
+            
         }
     }
 }

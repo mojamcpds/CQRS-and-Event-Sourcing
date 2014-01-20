@@ -9,3 +9,14 @@ F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Domains\bin\D
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Domains\obj\Debug\Client.Domains.csprojResolveAssemblyReference.cache
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Domains\obj\Debug\Client.Domains.dll
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\Client.Domains\obj\Debug\Client.Domains.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\Client.Domains.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\Client.Domains.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\Client.Events.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\CQRS.Core.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\Client.Events.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\CQRS.Core.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\bin\Debug\CQRS.Utils.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\obj\Debug\Client.Domains.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\obj\Debug\Client.Domains.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\Client.Domains\obj\Debug\Client.Domains.pdb

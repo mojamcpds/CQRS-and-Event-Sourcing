@@ -3,3 +3,7 @@ F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Utils\bin\Debug
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Utils\obj\Debug\CQRS.Utils.dll
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Utils\obj\Debug\CQRS.Utils.pdb
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Utils\obj\Debug\CQRS.Utils.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Utils\bin\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Utils\bin\Debug\CQRS.Utils.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Utils\obj\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Utils\obj\Debug\CQRS.Utils.pdb

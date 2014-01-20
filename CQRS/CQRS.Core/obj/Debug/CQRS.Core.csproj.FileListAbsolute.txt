@@ -5,3 +5,10 @@ F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Core\bin\Debug\
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Core\obj\Debug\CQRS.Core.csprojResolveAssemblyReference.cache
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Core\obj\Debug\CQRS.Core.dll
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRS\CQRS.Core\obj\Debug\CQRS.Core.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\bin\Debug\CQRS.Core.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\bin\Debug\CQRS.Core.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\bin\Debug\CQRS.Utils.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\bin\Debug\CQRS.Utils.pdb
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\obj\Debug\CQRS.Core.csprojResolveAssemblyReference.cache
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\obj\Debug\CQRS.Core.dll
+F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\CQRS.Core\obj\Debug\CQRS.Core.pdb
