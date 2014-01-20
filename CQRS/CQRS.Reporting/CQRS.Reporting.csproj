@@ -46,11 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IReadModelFacade.cs" />
     <Compile Include="IReportingRepository.cs" />
     <Compile Include="IReportingUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReadModelFacade.cs" />
     <Compile Include="ReportingDbContext.cs" />
     <Compile Include="ReportingRepository.cs" />
     <Compile Include="ReportingUnitOfWork.cs" />

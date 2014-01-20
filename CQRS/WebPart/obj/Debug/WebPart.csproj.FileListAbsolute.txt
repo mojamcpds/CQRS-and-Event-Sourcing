@@ -153,8 +153,6 @@ F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\b
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\CQRS.Reporting.pdb
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\EntityFramework.xml
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\EntityFramework.SqlServer.xml
-F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\Ninject.pdb
-F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\Ninject.xml
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\Newtonsoft.Json.xml
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\System.Net.Http.xml
 F:\Video\Latest Readable\CQRS Tutorial\CQRS By Authors\CQRSES-SPA\CQRS\WebPart\bin\System.Net.Http.Formatting.xml
